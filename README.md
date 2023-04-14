@@ -5,26 +5,25 @@
 Before you start, make sure you have the following installed on your machine:
 
 Python: https://www.python.org/
-
 ## Getting Started
 
 Clone the repository to your local machine.
 
-bash
+```bash
 git clone https://github.com/kimayav/Language-Detector.git
-
+```
 
 Install dependencies for the backend.
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 Run the Tkinter application.
 
-bash
+```bash
 python app.py
-
+```
 
 ### Results
 
