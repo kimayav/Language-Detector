@@ -31,8 +31,6 @@ python app.py
 
 ![image](https://raw.githubusercontent.com/kimayav/Language-Detector/master/images/Result2.png)
 
-![image](https://raw.githubusercontent.com/kimayav/Language-Detector/master/images/Result3.png)
-
 ![image](https://raw.githubusercontent.com/kimayav/Language-Detector/master/images/Result4.png)
 
 ![image](https://raw.githubusercontent.com/kimayav/Language-Detector/master/images/Result5.png)
